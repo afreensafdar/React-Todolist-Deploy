@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 This is a simple To Do Application in react that uses React components, React forms, event handlers etc.Through this application
-- Add To do task 
+- Add task 
 - Edit task
 - Delete task 
 
