@@ -11,8 +11,8 @@ This is a simple To Do Application in react that uses React components, React fo
 
 In the project directory, you can run:
 
-#`npm create-react-app [APP_NAME]`
-#`npm start`
+# `npm create-react-app [APP_NAME]`
+# `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
