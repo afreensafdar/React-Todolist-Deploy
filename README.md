@@ -32,7 +32,7 @@ $ npm i -S react-flip-move   (To have animations)
 
 ## Commands used to publish react files in github:
 
-git remote set-url origin https://github.com/abarna1908/To-Do-App-in-React
+git remote set-url origin https:
 
 npm run build
 
