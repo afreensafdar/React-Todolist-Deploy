@@ -1,4 +1,4 @@
-# To-Do-App-in-React-code
+# React Todolist Application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ---
