@@ -1,138 +1,24 @@
-# Getting Started with Create React App
-# To-Do-App-in-React-code
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
----
-
-
-## Table of contents
-
-- [Introduction](#introduction)
-- [Competencies](#competencies)
-- [Demo](#demo)
-- [Technologies](#technologies)
-- [Setup](#setup)
-- [Features](#features)
-- [Contact](#contact)
-
----
-
-## Introduction
-
-
-This is a simple To Do Application in react that uses React components, React forms, event handlers etc.Through this application
-- Add task 
-- Update task
-- Delete task 
-
----
-
-## Competencies
-
-#JF 1.7
-
-- Demonstrates creativity and tenacity in their approach to solutions and the methods used to come to a solution for example, sees the task through to the end by devising new solutions and despite obstacles and problems along the way.
-
-#JF 2.4
-
-- Demonstrates commitment to continued professional development.
-
-#JF 6.4
-
-- Works independently and takes responsibility. For example, has a disciplined and responsible approach to risk, and stays motivated and committed when facing challenges.
-
-
----
-
-## Demo- The published Application
-
-[Demo](https://afreensafdar.github.io/React-Todolist-Deploy)
-
-
----
-
-## Screenshots
-![5.png](todo-images/react2.jpg)
-
-![1.png](todo-images/react-listitem.png)
-
-![2.png](todo-images/react1.jpg)
-
-
----
-
-## Technologies
-
-- React - version 17.0.2
-- React-dom - version 17.0.2
-- React-scripts - version 5.0.0
-- React-fontawesome - version 0.1.17
-
----
-
-## Setup
-
-After clone, you can run
-
-- `npm run build`
-- `npm run deploy`
-
----
-
-## Features
-
-User should be able to:
-
-- add a task to the list by completing the form
-- view the task lists
-- update and delete task list.
-
-
-Stretch Goals:
-
-- To be able to use a Sign up and login.
-- Implement using OAuth.
-- To have server- side validations and database.
-- Send notification reminder to the user.
-
----
-
-## Available Scripts
-
-In the project directory, you can run:
-
-- `npx create-react-app [APP_NAME]`
-- `cd [APP_NAME]`
-- `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
----
-
-## Commands used to install Font awesome:
-
-- `npm i --save @fortawesome/fontawesome-svg-core`
-- `npm i --save @fortawesome/free-solid-svg-icons`
-- `npm i --save @fortawesome/react-fontawesome`
-- `npm i -S react-flip-move   (To have animations)`
-
-
-## Commands used to publish react files in github:
-
-- git remote set-url origin https:
-- npm run build
-- npm run deploy
-- npm install gh-pages --save-dev
-
----
-## Contact
-
-- [Afreen](https://github.com/afreensafdar)
-
-
----
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="42">
+            <File firstVisibleLine="243" xOffset="0" scrollWidth="2248" startPos="9481" endPos="9498" selMode="0" offset="0" wrapCount="1" lang="Shell" encoding="-1" userReadOnly="no" filename="C:\Users\safdaaf\Documents\files\getMetrics.sh" backupFilePath="" originalFileLastModifTimestamp="-1857216384" originalFileLastModifTimestampHigh="30909453" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="543452769" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="112" startPos="7" endPos="7" selMode="0" offset="0" wrapCount="1" lang="None (Normal Text)" encoding="-1" userReadOnly="no" filename="C:\Users\safdaaf\IdeaProjects\TestFileComparison\CustomerAccount.csv" backupFilePath="" originalFileLastModifTimestamp="723868255" originalFileLastModifTimestampHigh="30929038" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="1141506048" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="17103" startPos="0" endPos="0" selMode="0" offset="0" wrapCount="1" lang="None (Normal Text)" encoding="-1" userReadOnly="no" filename="C:\Users\safdaaf\Downloads\File format_Vision and POS_06-01-2020.xlsx" backupFilePath="" originalFileLastModifTimestamp="311478069" originalFileLastModifTimestampHigh="30927573" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="1139802112" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="10677" xOffset="0" scrollWidth="96" startPos="128596" endPos="128603" selMode="0" offset="0" wrapCount="1" lang="None (Normal Text)" encoding="-1" userReadOnly="no" filename="C:\Users\safdaaf\IdeaProjects\TestFileComparison\CustomerAccountlist.csv" backupFilePath="" originalFileLastModifTimestamp="-27827637" originalFileLastModifTimestampHigh="30929049" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="522" xOffset="0" scrollWidth="88562" startPos="8545" endPos="8545" selMode="0" offset="0" wrapCount="1" lang="JSON" encoding="-1" userReadOnly="no" filename="C:\Users\safdaaf\request-kibana.json" backupFilePath="" originalFileLastModifTimestamp="-1869034042" originalFileLastModifTimestampHigh="30941631" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="1139802112" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="512" startPos="207" endPos="207" selMode="0" offset="0" wrapCount="1" lang="Batch" encoding="-1" userReadOnly="no" filename="C:\Program Files\PostgreSQL\13\pg_env.bat" backupFilePath="" originalFileLastModifTimestamp="-1557911952" originalFileLastModifTimestampHigh="30929198" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="151587341" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="2240" startPos="862" endPos="862" selMode="0" offset="0" wrapCount="1" lang="Batch" encoding="-1" userReadOnly="no" filename="C:\Users\safdaaf\Documents\postgress_load\load_data.bat" backupFilePath="C:\Users\safdaaf\AppData\Roaming\Notepad++\backup\load_data.bat@2022-02-28_113641" originalFileLastModifTimestamp="-1192610452" originalFileLastModifTimestampHigh="30944457" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="2035578977" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="512" startPos="651" endPos="651" selMode="0" offset="0" wrapCount="1" lang="None (Normal Text)" encoding="-1" userReadOnly="no" filename="C:\Users\safdaaf\Documents\Onetalk_Mul_Ind\test-indicator\matrix.ute" backupFilePath="" originalFileLastModifTimestamp="2082516299" originalFileLastModifTimestampHigh="30945905" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="35652128" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="608" startPos="769" endPos="0" selMode="0" offset="0" wrapCount="1" lang="None (Normal Text)" encoding="-1" userReadOnly="no" filename="C:\Users\safdaaf\Documents\Onetalk_Mul_Ind\backup\MASTEROUT-backup\taxability_rules.csv" backupFilePath="" originalFileLastModifTimestamp="1470316416" originalFileLastModifTimestampHigh="30945154" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="190" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="512" startPos="653" endPos="653" selMode="0" offset="0" wrapCount="1" lang="None (Normal Text)" encoding="-1" userReadOnly="no" filename="C:\Users\safdaaf\Desktop\UTE-VERIZON\matrix.ute" backupFilePath="" originalFileLastModifTimestamp="117090535" originalFileLastModifTimestampHigh="30949302" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1208" startPos="1212" endPos="1212" selMode="0" offset="0" wrapCount="1" lang="None (Normal Text)" encoding="-1" userReadOnly="no" filename="C:\Users\safdaaf\Desktop\UTE-VERIZON\SCRIPT-sort and diff-dev03.txt" backupFilePath="C:\Users\safdaaf\AppData\Roaming\Notepad++\backup\SCRIPT-sort and diff-dev03.txt@2022-04-11_133913" originalFileLastModifTimestamp="1798106768" originalFileLastModifTimestampHigh="30952915" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no">
+                <Mark line="6" />
+            </File>
+            <File firstVisibleLine="381" xOffset="0" scrollWidth="512" startPos="129" endPos="0" selMode="0" offset="0" wrapCount="1" lang="None (Normal Text)" encoding="-1" userReadOnly="no" filename="C:\Users\safdaaf\Downloads\matrix(with onetalk multipler).ute" backupFilePath="" originalFileLastModifTimestamp="-378416590" originalFileLastModifTimestampHigh="30949478" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="51387" xOffset="0" scrollWidth="512" startPos="3342363" endPos="3342363" selMode="0" offset="0" wrapCount="1" lang="None (Normal Text)" encoding="-1" userReadOnly="no" filename="C:\Users\safdaaf\Desktop\matrix.ute" backupFilePath="" originalFileLastModifTimestamp="870881123" originalFileLastModifTimestampHigh="30956515" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1872" startPos="2729" endPos="2729" selMode="0" offset="0" wrapCount="1" lang="None (Normal Text)" encoding="-1" userReadOnly="no" filename="C:\Users\safdaaf\Desktop\Bootcamp(Multiverse)\React-Todolist-Deploy\README.md" backupFilePath="C:\Users\safdaaf\AppData\Roaming\Notepad++\backup\README.md@2022-05-04_151200" originalFileLastModifTimestamp="671014077" originalFileLastModifTimestampHigh="30957555" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
