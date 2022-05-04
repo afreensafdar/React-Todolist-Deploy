@@ -45,7 +45,7 @@ This is a simple To Do Application in react that uses React components, React fo
 
 ## Demo- The published To-do App
 
-![Demo]()
+![Demo](https://afreensafdar.github.io/React-Todolist-Deploy)
 
 [View the APP](https://afreensafdar.github.io/React-Todolist-Deploy)
 
@@ -138,6 +138,3 @@ You may also see any lint errors in the console.
 
 
 ---
-
-## The published To-do App:
-https://afreensafdar.github.io/React-Todolist-Deploy
