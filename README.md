@@ -46,17 +46,33 @@ This is a simple To Do Application in react that uses React components, React fo
 
 ## Demo- The published Application
 
-[Demo](https://afreensafdar.github.io/React-Todolist-Deploy)
+<h1 align="center">
+  Todo List .
+</h1>
 
+<div align="center">
+
+[Todo List App](https://afreensafdar.github.io/React-Todolist-Deploy)
+
+ An app made with the help of React.js.
+    
+</div>
 
 ---
 
 ## Screenshots
-![5.png](todo-images/react2.jpg)
+* Home Page:
+
+![5.png](todo-images/react1.jpg)
+
+* Add Task Page:
+
+![2.png](todo-images/react2.jpg)
+
+* View Tasks Page:
 
 ![1.png](todo-images/react-listitem.png)
 
-![2.png](todo-images/react1.jpg)
 
 
 ---
